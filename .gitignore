@@ -1,2 +1,5 @@
+cache_*/
+refs/
+
 # backup files
 *.blend1
