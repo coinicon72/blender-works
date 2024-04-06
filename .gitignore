@@ -3,3 +3,6 @@ refs/
 
 # backup files
 *.blend1
+
+# autosave
+*_autosave.blend
